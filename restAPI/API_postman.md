@@ -6,19 +6,22 @@ nav_order: 1
 ---
 ## Using Postman
 
-First, download our Postman Collection for the Tandem API here:
+Postman is a convenient tool for trying out the Tandem APIs.  First, download our Postman Collection here:
 
-[Download](https://documenter.getpostman.com/view/15787353/UVeFMRdB){: .btn .btn-blue }
 
-![Postman_01](../img/postman_01.png)
+
+### Install the Collection
+
+| Autodesk Tandem Model Service - [Download](https://documenter.getpostman.com/view/15787353/UVeFMRdB){: .btn .btn-blue }         | ![Postman_01](../img/postman_01.png) |
+
+
+Click "Run in Postman"... 
 ![Postman_02](../img/postman_02.png)
 
-Then import the collection into your workspace...
-
+"Import the collection" into your workspace...
 ![Postman_03](../img/postman_03.png)
 
-Then it should show up as a collection...
-
+It shows up as a new collection...
 ![Postman_04](../img/postman_04.png)
 
 That should give you access to the documentation and the interactive collection.  The documentation for the REST API is only half finished, but hopefully being able to run interactively in Postman will help you figure things out.  The two major functions to READ/WRITE data are a little tricky:  
