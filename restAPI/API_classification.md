@@ -13,7 +13,7 @@ We will examine this from the inside out, starting with just assigning a Classif
 
 Let's first start with an element that has no user-defined parameters applied and no classification applied.
 
-![Classif_01](../img/classif_01.png)
+![Classif_01](../img/classif_01.jpg)
 
 We can verify that is the case via a /scan call, like the following:
 
@@ -22,7 +22,7 @@ We can verify that is the case via a /scan call, like the following:
 Now, we use /mutate to add the Classification for Concrete...
 
 ![Classif_03](../img/classif_03.png)
-![Classif_04](../img/classif_04.png)
+![Classif_04](../img/classif_04.jpg)
 
 When we look at the Tandem UI now, we see the set of Parameters that *SHOULD* be there based on this Classification.  But there are actually no properties yet assigned to this element until these are defined.  We can verify this by running /scan on this element...
 
@@ -40,7 +40,7 @@ Once those properties are there, you continue to use /mutate with the "i" option
 
 Currently, if you change to a new Classification, it will not remove these original properties that came from the previous classification assignment.  Notice in this screenshot that the classification has been changed to "Masonry", but both ParameterSets are present.
 
-![Classif_08](../img/classif_08.png)
+![Classif_08](../img/classif_08.jpg)
 
 The process currently requires the Tandem User to run a "cleanup" operation on the database at some point to get rid of the stale mappings.
 
@@ -96,7 +96,7 @@ Once a Template is applied to a Facility, a copy of all the global constructs ar
 
 When we make a change to any of the global constructs in the Manage tab, it is not immediately reflected in the Facility's copy of that data.  We have to update it manually, which forces a copy of a large JSON object that includes all those constructs, and then writes that into the Facility database
 
-![Classif_21](../img/classif_21.png)
+![Classif_21](../img/classif_21.jpg)
 
 The update resulted in a call to POST /template
 

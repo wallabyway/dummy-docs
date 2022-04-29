@@ -8,7 +8,9 @@ nav_order: 2
 
 The Tandem APIs lets you embed the Tandem Viewer, on your own webpage.
 
-To get a basic 'hello world' example up and running, we need to setup 3-legged Authentication.  This involves 3 things:
+To get a basic 'hello world' example up and running, we need to setup 3-legged Authentication.  
+
+This involves 3 things:
 
 1. Creating a Forge `Account` and Forge `Key`
 2. Adding `Permissions` to Tandem
