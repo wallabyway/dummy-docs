@@ -63,12 +63,18 @@ We will add our Forge ID, as a User, to an existing Tandem Facility and give the
 
 - Open [any Tandem Facility](tandem.autodesk.com)
 - Select `Users`
-- Click `Service`
-- Add your Forge `Client ID` into the `Service ID` field
-- Add a `Hello World` to `Service Name` field
-- Scroll down and click <button>ADD</button> button
+- Tick [x] `Service`
+
 
 ![](../img/tandem-clientid.jpg)
+
+Next,
+
+- in the `Service ID` field, add your Forge `Client ID`
+- in the `Service Name` field, add anything (ie. `Hello World`)
+- Scroll down and click [ Add ](tandem.autodesk.com){: .btn .btn-blue }
+
+
 
 ### Creating a simple `"Hello World"` Tandem Viewer
 
