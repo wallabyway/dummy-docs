@@ -1,6 +1,12 @@
-# Overview
+---
+title: Overview
+has_children: false
+nav_order: 1
+---
 
 ![Tandem API](./img/TandemLogo.png)
+
+# Overview
 
 Tandem digital twins represent a hub of information about your facility and they establish the existence and location of assets within that facility. That foundation is critical, but any good digital twin will include integrations with other systems and will support programmatic management of the asset data. Therefore, API access to the Tandem data model is essential.  Over time, we plan to offer comprehensive APIs in several contexts to help developers customize and extend the foundational capabilities that the Tandem product provides.
 
