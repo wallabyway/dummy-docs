@@ -72,7 +72,7 @@ Next,
 
 - in the `Service ID` field, add your Forge `Client ID`
 - in the `Service Name` field, add anything (ie. `Hello World`)
-- Scroll down and click &nbsp;&nbsp;[ &nbsp;&nbsp;&nbsp;Add&nbsp;&nbsp;&nbsp; ](tandem.autodesk.com){: .btn .btn-blue }
+- Scroll down and click &nbsp;&nbsp;[ &nbsp;&nbsp;&nbsp;Add&nbsp;&nbsp;&nbsp; ](https://tandem.autodesk.com){: .btn .btn-blue }
 
 
 

@@ -10,3 +10,15 @@ nav_order: 1
 This is the Hello World tutorial...
 
 
+# Edit the index.html file
+
+# Testing it locally
+
+
+From a command line, type: 
+
+```
+python3 -m http.server
+```
+
+( make sure you have python installed )
