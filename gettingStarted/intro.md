@@ -17,9 +17,9 @@ To get a basic 'hello world' example up and running, we need to setup 3-legged A
 
 <hr>
 
-### Creating a Forge Account and Forge Key
+# Creating a Forge Account and Forge Key
 
-#### Forge Account
+## Forge Account
 
 If you don't have a Forge account yet, sign up for one on [https://forge.autodesk.com](https://forge.autodesk.com). 
 
@@ -29,7 +29,7 @@ If you don't have a Forge account yet, sign up for one on [https://forge.autodes
 
 
 
-#### Forge Key
+## Forge Key
 
 In order to authenticate to the Tandem platform, we need a Forge Key (ie. a client **ID** & client **Secret**).
 
@@ -55,7 +55,7 @@ Record the **Client ID**, you'll need this in the last step.
 
 ![](https://forge-tutorials.autodesk.io/assets/images/app-ready-a72c66d869628d2b0fa3c03d9d407bfd.webp)
 
-### Adding permissions to Tandem
+# Adding permissions to Tandem
 
 Next, let's setup Tandem.  
 
@@ -72,11 +72,11 @@ Next,
 
 - in the `Service ID` field, add your Forge `Client ID`
 - in the `Service Name` field, add anything (ie. `Hello World`)
-- Scroll down and click [ Add ](tandem.autodesk.com){: .btn .btn-blue }
+- Scroll down and click &nbsp;&nbsp;[ &nbsp;&nbsp;&nbsp;Add&nbsp;&nbsp;&nbsp; ](tandem.autodesk.com){: .btn .btn-blue }
 
 
 
-### Creating a simple `"Hello World"` Tandem Viewer
+# Creating a simple `"Hello World"` Tandem Viewer
 
 Finally, let's create a simple `"Hello World"` webpage, containing a bare-bones Tandem Viewer, that shows our facility.
 
