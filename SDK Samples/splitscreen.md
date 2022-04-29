@@ -1,6 +1,6 @@
 ---
 title: Split Screen
-parent: Getting Started
+parent: SDK Samples
 has_children: false
 nav_order: 4
 ---

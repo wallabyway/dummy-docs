@@ -1,6 +1,6 @@
 ---
 title: Maximo Example
-parent: Getting Started
+parent: SDK Samples
 has_children: false
 nav_order: 2
 ---

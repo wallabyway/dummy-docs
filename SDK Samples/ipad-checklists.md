@@ -1,6 +1,6 @@
 ---
 title: iPad CheckLists
-parent: Getting Started
+parent: SDK Samples
 has_children: false
 nav_order: 6
 ---

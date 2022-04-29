@@ -1,6 +1,6 @@
 ---
 title: ACME Rooms & Floors
-parent: Getting Started
+parent: SDK Samples
 has_children: false
 nav_order: 5
 ---
