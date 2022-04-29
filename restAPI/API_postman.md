@@ -1,6 +1,14 @@
-## Postman Collection
+---
+title: Using Postman
+parent: Rest APIs
+has_children: false
+nav_order: 1
+---
+## Using Postman
 
-Find the Postman  collection here: [Postman Collection](https://documenter.getpostman.com/view/15787353/UVeFMRdB)
+First, download our Postman Collection for the Tandem API here:
+
+[Download](https://documenter.getpostman.com/view/15787353/UVeFMRdB){: .btn .btn-blue }
 
 ![Postman_01](./img/postman_01.png)
 ![Postman_02](./img/postman_02.png)

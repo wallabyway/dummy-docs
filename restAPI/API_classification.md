@@ -1,3 +1,9 @@
+---
+title: Assigning Parameters
+parent: Rest APIs
+has_children: false
+nav_order: 2
+---
 ## Assigning Parameters
 
 ### Classifications and ParameterSets
