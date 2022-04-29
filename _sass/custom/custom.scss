@@ -1,3 +1,16 @@
 .nav-list-item a {
   color: DarkBlue !important;
 }
+
+@font-face { 
+  font-family: ArtifaktElement-Regular;
+  src: url(/app/themes/autodesk-tandem/assets/dist/3af1b11c2e58cab0ae01d3226dc3c12c.ttf) format("truetype");
+  font-weight: 400;
+  font-style: normal;
+}
+
+body {
+  font-family:ArtifaktElement-Regular,sans-serif !important;
+}
+
+
