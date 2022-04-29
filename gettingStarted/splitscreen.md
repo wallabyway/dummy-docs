@@ -1,6 +1,6 @@
 ---
 title: Split Screen
-parent: Tutorials
+parent: Getting Started
 has_children: false
 nav_order: 4
 ---

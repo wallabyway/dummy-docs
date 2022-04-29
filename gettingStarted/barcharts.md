@@ -1,6 +1,6 @@
 ---
 title: Bar Charts
-parent: Tutorials
+parent: Getting Started
 has_children: false
 nav_order: 3
 ---

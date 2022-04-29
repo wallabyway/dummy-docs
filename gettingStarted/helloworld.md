@@ -1,6 +1,6 @@
 ---
 title: Hello World
-parent: Tutorials
+parent: Getting Started
 has_children: false
 nav_order: 1
 ---
