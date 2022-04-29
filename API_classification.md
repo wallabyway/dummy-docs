@@ -1,5 +1,6 @@
-## Assigning Classifications and Parameters
+## Assigning Parameters
 
+### Classifications and ParameterSets
 We will examine this from the inside out, starting with just assigning a Classification to the element and well-known, fully qualified property names.  Those methods are well established and unlikely to change.  How to setup the Classifications and ParameterSets is a little more complicated and the methods are still evolving at the current time.
 
 1. Assuming you know the fully qualified property name, how do I assign a new property to an element?

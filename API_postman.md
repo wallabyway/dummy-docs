@@ -1,4 +1,4 @@
-## Tandem API Postman Collection
+## Postman Collection
 
 Find the Postman  collection here: [Postman Collection](https://documenter.getpostman.com/view/15787353/UVeFMRdB)
 
