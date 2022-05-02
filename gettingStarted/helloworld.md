@@ -9,6 +9,12 @@ nav_order: 1
 
 This is the Hello World tutorial...
 
+DEMO: https://wallabyway.github.io/tandem-api-hello-world/
+REPO: https://github.com/wallabyway/tandem-api-hello-world/
+
+
+#### Create an index.html with the following code:
+
 ```html
 <header>
     <link href="https://tandem.autodesk.com/viewer/style.min.css" rel="stylesheet" type="text/css">
@@ -96,6 +102,12 @@ $('userprofile').addEventListener("click", logout);
 
 # Edit the index.html file
 
+Change the `forge_clientID` to your own Forge Key Client ID
+
+```code
+        const forge_clientID = "rZboPCXwdKnmxeByCWbX7Fz1YGmIjGja";
+```
+
 # Testing it locally
 
 
@@ -106,3 +118,7 @@ python3 -m http.server
 ```
 
 ( make sure you have python installed )
+
+and open your browser to `http://localhost:8000/`
+
+Click the 'Login' button, top right, and login.
