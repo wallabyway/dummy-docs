@@ -9,8 +9,9 @@ nav_order: 1
 
 This is the Hello World tutorial...
 
-DEMO: https://wallabyway.github.io/tandem-api-hello-world/
-REPO: https://github.com/wallabyway/tandem-api-hello-world/
+DEMO: [https://wallabyway.github.io/tandem-api-hello-world/](https://wallabyway.github.io/tandem-api-hello-world/)
+
+REPO: [https://github.com/wallabyway/tandem-api-hello-world/](https://github.com/wallabyway/tandem-api-hello-world/)
 
 
 #### Create an index.html with the following code:
