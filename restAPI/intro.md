@@ -6,6 +6,8 @@ nav_order: 3
 
 # Rest APIs
 
+[Search the APIs](swagger.md)
+
 The REST API is the first one that will be officially supported.  It is the base level API that communicates with the Tandem data server and manages `create/read/write/delete` of property data for assets. These asset properties are also called "parameters" in the Tandem client app, and those names are interchangeable in this documentation.
 
 The REST API is a thin layer over the underlying Tandem database.  It is designed to be very efficient and powerful, but with that comes some slightly cryptic payloads and some calls that could cause unwanted changes to the facility data if not constructed properly.  We advise that you avoid calling endpoints that we mark with WARNINGs, and we advise that you do comprehensive testing on datasets that you can afford to recreate before deploying on critical datasets.
