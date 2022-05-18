@@ -13,6 +13,8 @@ DEMO: [https://wallabyway.github.io/tandem-api-hello-world/](https://wallabyway.
 
 REPO: [https://github.com/wallabyway/tandem-api-hello-world/](https://github.com/wallabyway/tandem-api-hello-world/)
 
+![settings](../img/helloworld.gif)
+
 
 #### Create an index.html with the following code:
 
